@@ -3,12 +3,12 @@
 ![Mountains](mountains.jpeg)
 
 > ## Projects
-> - [webtop](https://darin755.github.io/webtop)
+> - [webtop](https://github.com/Darin755/webtop)
 > 
-> - [browser-linux](https://darin755.github.io/browser-linux)
+> - [browser-linux](https://github.com/Darin755/browser-linux)
 > 
-> - [Rawsonlinux](https://darin755.github.io/Rawsonlinux)
+> - [Rawsonlinux](https://github.com/Darin755/Rawsonlinux)
 > 
-> - [html-generator](https://darin755.github.io/html-generator)
+> - [html-generator](https://github.com/Darin755/html-generator)
 > 
-> - [timely](https://darin755.github.io/timely)
+> - [timely](https://github.com/Darin755/timely)
