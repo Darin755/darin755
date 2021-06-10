@@ -1,5 +1,3 @@
-<title>Darin755 website</title>
-
 # Hi There
 ## This is Darin755 website on github
 ![Mountains](mountains.jpeg)
