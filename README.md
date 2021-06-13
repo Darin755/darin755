@@ -1,6 +1,6 @@
 # Hi There
-## This is Darin755 website on github
 ![Mountains](mountains.jpeg)
+## This is Darin755 ## This is Darin755 website on githubwebsite on github
 
 ## About Me
  - I am a high school student who occasionally works on open-source projects
