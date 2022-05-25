@@ -7,12 +7,9 @@
  - I am a Fedora Linux user
 
 > ## Projects
-> - [webtop](https://github.com/Darin755/webtop)
-> 
 > - [browser-linux](https://github.com/Darin755/browser-linux)
 > 
-> - [Rawsonlinux](https://github.com/Darin755/Rawsonlinux)
+> - [browser-buildroot](https://github.com/Darin755/browser-buildroot)
 > 
-> - [html-generator](https://github.com/Darin755/html-generator)
-> 
-> - [timely](https://github.com/Darin755/timely)
+> - [webtop](https://github.com/Darin755/webtop)
+
