@@ -1,6 +1,5 @@
 # Hi There
 ![Mountains](mountains.jpeg)
-## This is Darin755 website on github
 
 ## About Me
  - I am a student at UCCS studing Computer Science. I use Fedora linux and have been using linux since 2016. 
