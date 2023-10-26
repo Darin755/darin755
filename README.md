@@ -1,5 +1,6 @@
-## Hi There, I'm darin.
-![Mountains](mountains.jpeg)
+
+# Hi, I'm Darin
+<img src="mountains.jpeg" width="80%" alt="Mountains"></img>
 
 ## About Me
  - I am a Softmore at UCCS studying Computer Science. I have experiment with many different services, software and technologies in my free time and I love to work on my homelab.  I have taken several engineering classes in high school which taught me how to design and build engineering projects. I especially like Linux and open source services like Nextcloud. 

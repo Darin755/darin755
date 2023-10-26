@@ -1,30 +1,36 @@
-<h2 id="hi-there-im-darin.">Hi There, I’m Darin.</h2>
-<figure>
-<img src="mountains.jpeg" alt="Mountains" />
-<figcaption aria-hidden="true">Mountains</figcaption>
-</figure>
-<h2 id="about-me">About Me</h2>
-<ul>
-<li>I am a sophomore at UCCS studying Computer Science. I love working in my Homelab to modify it in
-order to add new services and features. I also enjoy trail running and I play Euphonium in the local ensemble.</li>
-</ul>
-<h2 id="projects-and-accomplishments">Projects and accomplishments</h2>
-<ul>
-<li>Linux in your browser: <a
-href="https://github.com/Darin755/browser-linux">https://github.com/Darin755/browser-linux</a></li>
-<li>The services in my homelab. All services are hosted on my Proxmox
-cluster and network traffic is routed into my homelabs network though a
-VPS in Linode. (Wireguard and Nginx Proxy) Here’s a list of all services
-I host:
-<ul>
-<li>Nextcloud</li>
-<li>gitea</li>
-<li>FMD (Find my device)</li>
-<li>Drupal</li>
-<li>Matrix</li>
-<li>Jellyfin</li>
-<li>My virtual PC (Made with vfio!)</li>
-<li>proxies and other networking related stuff (incoming traffic comes
-in via Wireguard)</li>
-</ul></li>
-</ul>
+<!DOCTYPE html>
+<head>
+    <meta charset="utf-8"/>
+    <title>Darin's website</title>
+</head>
+<body>
+<style>
+body {
+    background: black;
+    color: white;
+    padding-bottom: 50px;  
+    width: 50%; 
+    float: inline-start;
+    text-align: center;
+}
+
+ul {
+    text-align:left;
+}
+</style>
+<div id="content"></div>
+<!--This imports the markedjs library. It is licensed under the MIT License-->
+<script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+<script>
+    //The code in this page is licensed under GPLv3
+    //See file /gpl-3.0.txt
+
+//parse markdown with marked and display it above
+  var xhttp = new XMLHttpRequest();
+  xhttp.onreadystatechange =  function() {
+    document.getElementById("content").innerHTML = marked.parse(xhttp.responseText);
+  }  
+  xhttp.open("GET", "/README.md", true);
+  xhttp.send()  
+</script>
+</body>
